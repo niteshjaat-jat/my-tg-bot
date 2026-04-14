@@ -25,7 +25,7 @@ def keep_alive():
 
 # --- CONFIGURATION ---
 # Yaad rahe: In keys ko naya generate karke yahan replace karna safety ke liye zaroori hai
-BOT_TOKEN = "8550399459:AAEaCVATWHdKEyBRUWrTKopwU80AJmSXxYY"
+BOT_TOKEN = "8550399459:AAH96v-66rmEPtD5wp5je-dcDZ8bfTcwN-A"
 GROQ_API_KEY = "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"
 
 # Clients initialization
